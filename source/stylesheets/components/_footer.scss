@@ -10,11 +10,11 @@
   margin-top: 10px;
 }
 #footer a {
-  color: #CCCCCC;
-  font-size: 30px;
+  color: $white;
+  font-size: 2 * $base-size;
   letter-spacing: 20px;
   transition: color 0.5s ease;
 }
 #footer a:hover{
-  color: yellow;
+  color: $yellow;
 }
